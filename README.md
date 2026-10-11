@@ -10,17 +10,9 @@ I'm looking for my first developer role and I'm open to positions anywhere in Au
 
 Merged contributions to projects I didn't start:
 
-- **[LibreSign](https://github.com/LibreSign/libresign)**, an open-source digital signature platform
-  - [#8373](https://github.com/LibreSign/libresign/pull/8373) Explain to signers why they have no visible signature field
-  - [#8705](https://github.com/LibreSign/libresign/pull/8705) Store for compound signing policies
-- **[pdf-elements](https://github.com/LibreSign/pdf-elements)**, a Vue component for placing elements on PDFs
-  - [#93](https://github.com/LibreSign/pdf-elements/pull/93) Playwright end-to-end test setup
-  - [#94](https://github.com/LibreSign/pdf-elements/pull/94) Interaction tests for moving, resizing and deleting signatures
-  - [#96](https://github.com/LibreSign/pdf-elements/pull/96) Accessibility checks with axe, plus fixes for the violations they found
-  - [#97](https://github.com/LibreSign/pdf-elements/pull/97) Playwright tests in GitHub Actions
-  - [#107](https://github.com/LibreSign/pdf-elements/pull/107), [#114](https://github.com/LibreSign/pdf-elements/pull/114) Demo and documentation improvements
-- **[Alexandrie](https://github.com/Smaug6739/Alexandrie)** [#764](https://github.com/Smaug6739/Alexandrie/pull/764) File preview on public document pages
-- **[Flinkboot](https://github.com/Sekelenao/Flinkboot)** [#84](https://github.com/Sekelenao/Flinkboot/pull/84) Enforce non-null arguments in a validation task
+- **[LibreSign](https://github.com/LibreSign/libresign)**, digital signature platform: signer guidance for missing signature fields ([#8373](https://github.com/LibreSign/libresign/pull/8373)), store for compound signing policies ([#8705](https://github.com/LibreSign/libresign/pull/8705))
+- **[pdf-elements](https://github.com/LibreSign/pdf-elements)**: built the Playwright end-to-end test suite from scratch, including interaction tests, axe accessibility checks with fixes, and CI ([#93](https://github.com/LibreSign/pdf-elements/pull/93), [#94](https://github.com/LibreSign/pdf-elements/pull/94), [#96](https://github.com/LibreSign/pdf-elements/pull/96), [#97](https://github.com/LibreSign/pdf-elements/pull/97))
+- **[Alexandrie](https://github.com/Smaug6739/Alexandrie)**: file preview on public document pages ([#764](https://github.com/Smaug6739/Alexandrie/pull/764))
 
 ### Projects
 
